@@ -1,5 +1,6 @@
 # Secret configuration
 application.properties
+.env
 
 HELP.md
 target/
